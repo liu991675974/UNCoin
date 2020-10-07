@@ -1,20 +1,20 @@
 {
-  "name": "DEFI",
-  "logoURI": "https://www.xxxxxxxxxxxx/logo.png",
+  "name": "UNCoin",
+  "logoURI": "https://raw.githubusercontent.com/liu991675974/UNCoin/main/login.png",
   "keywords": [
-      "defi",
-      "DEFI",
-      "yield"
+      "UNCoin",
+      "uncoin",
+      "UNCOIN"
     ],
-    "timestamp": "2020-09-01T01:40:34.305Z",
+    "timestamp": "2020-10-07T16:45:34.305Z",
     "tokens": [
       {
       "chainId": 1,
-      "address": "0x000000000000000000000000000000",
-      "name": "DEFI",
-      "symbol": "DEFI",
+      "address": "0xc69b3fe1e16068eca10af3ba7342a1c607661374",
+      "name": "Uniswap Coin",
+      "symbol": "UNCoin",
       "decimals": 18,
-      "logoURI": "https://www.xxxxxxxxxxxx/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/liu991675974/UNCoin/main/login.png"
       }
     ],
     "version": {
