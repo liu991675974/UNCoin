@@ -1,18 +1,13 @@
 {
-  "name": "UNCoin",
+  "name": "llq",
   "logoURI": "https://raw.githubusercontent.com/liu991675974/UNCoin/main/login.png",
-  "keywords": [
-      "UNCoin",
-      "uncoin",
-      "UNCOIN"
-    ],
-    "timestamp": "2020-10-07T16:45:34.305Z",
+  "timestamp": "2020-10-07T16:45:34.305Z",
     "tokens": [
       {
       "chainId": 1,
-      "address": "0xc69b3fe1e16068eca10af3ba7342a1c607661374",
-      "name": "Uniswap Coin",
-      "symbol": "UNCoin",
+      "address": "TCLGDUFGoKjD9NbsVAfh656eLSY74WmDns",
+      "name": "LLQ Token",
+      "symbol": "LLQ",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/liu991675974/UNCoin/main/login.png"
       }
