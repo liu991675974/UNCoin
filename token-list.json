@@ -1,20 +1,20 @@
 {
-  "name": "llq",
-  "logoURI": "https://raw.githubusercontent.com/liu991675974/UNCoin/main/login.png",
-  "timestamp": "1611147166000",
-    "tokens": [
-      {
-      "chainId": 1,
-      "address": "TCLGDUFGoKjD9NbsVAfh656eLSY74WmDns",
-      "name": "LLQ Token",
-      "symbol": "LLQ",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/liu991675974/UNCoin/main/login.png"
-      }
+    "name":"llq",
+    "tokens":[
+        {
+            "symbol":"LLQ",
+            "address":"TCLGDUFGoKjD9NbsVAfh656eLSY74WmDns",
+            "chainId":1,
+            "decimals":18,
+            "name":"LLQ Token",
+            "logoURI":"https://raw.githubusercontent.com/liu991675974/UNCoin/main/login.png"
+        }
     ],
-    "version": {
-      "major": 0,
-      "minor": 0,
-      "patch": 0
-    }
+    "logoURI":"https://raw.githubusercontent.com/liu991675974/UNCoin/main/login.png",
+    "version":{
+        "patch":1,
+        "major":1,
+        "minor":0
+    },
+    "timestamp":1611147166000
 }
