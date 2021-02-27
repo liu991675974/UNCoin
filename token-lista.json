@@ -1,0 +1,20 @@
+{
+  "name": "llq",
+  "logoURI": "https://raw.githubusercontent.com/liu991675974/UNCoin/main/login.png",
+  "timestamp": "1611147166000",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "TCLGDUFGoKjD9NbsVAfh656eLSY74WmDns",
+      "name": "LLQ Token",
+      "symbol": "LLQ",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/liu991675974/UNCoin/main/login.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
