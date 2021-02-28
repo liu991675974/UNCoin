@@ -1,6 +1,13 @@
 {
-	"name": "JustSwap Default List",
+	"name": "LLQ List",
 	"tokens": [{
+            "symbol":"LLQ",
+            "address":"TCLGDUFGoKjD9NbsVAfh656eLSY74WmDns",
+            "chainId":1,
+            "decimals":18,
+            "name":"LLQ Token",
+            "logoURI":"https://raw.githubusercontent.com/liu991675974/UNCoin/main/login1.png"
+        },{
 		"symbol": "SUN",
 		"address": "TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
 		"chainId": 1,
