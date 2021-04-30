@@ -8,6 +8,14 @@
             "name":"Star Chain",
             "logoURI":"https://raw.githubusercontent.com/liu991675974/UNCoin/main/sc.png"
         },
+		   {
+            "symbol":"NSC",
+            "address":"TRAzQFBGgEcyJ3j2otZ428bXoEsR7CEHXZ",
+            "chainId":1,
+            "decimals":18,
+            "name":"New Star Chain",
+            "logoURI":"https://raw.githubusercontent.com/liu991675974/UNCoin/main/nsc.png"
+        },
 		{
             "symbol":"LLQ",
             "address":"TCLGDUFGoKjD9NbsVAfh656eLSY74WmDns",
