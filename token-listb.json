@@ -12,7 +12,7 @@
             "symbol":"BEVA",
             "address":"TJTbthKaCbWg1UihvEjdQ6LQDRJnJ7cAS8",
             "chainId":1,
-            "decimals":18,
+            "decimals":6,
             "name":"BEVAToken",
             "logoURI":"https://raw.githubusercontent.com/liu991675974/UNCoin/main/beva.png"
         },
